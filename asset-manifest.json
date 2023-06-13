@@ -1,21 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.e8c55b76.css",
-    "main.js": "/static/js/main.c0d9ec4d.js",
+    "main.js": "/static/js/main.b02e5733.js",
     "static/media/tripoto.gif": "/static/media/tripoto.b7a3dc72650b86b4f02c.gif",
     "static/media/firstcry.gif": "/static/media/firstcry.8fea4d58be3d96073c49.gif",
+    "static/media/gif-maker.gif": "/static/media/gif-maker.3fe061355cf2c14dc934.gif",
     "static/media/Blobimage.png": "/static/media/Blobimage.d3368c2dd11506f2c03a.png",
     "static/media/clockify.gif": "/static/media/clockify.8fa2572686e429c8991e.gif",
     "static/media/avis.gif": "/static/media/avis.13b33f2362411434cd5c.gif",
+    "static/media/game-maker.gif": "/static/media/game-maker.a5f54fb0152a5affd4e3.gif",
     "static/media/image.gif": "/static/media/image.9febc1a0763cd5fd242b.gif",
     "static/media/fw20_1252-Shikha-Gupta-Resume.pdf": "/static/media/fw20_1252-Shikha-Gupta-Resume.a4edb70ec05fc6a168ce.pdf",
     "static/media/contact.svg": "/static/media/contact.ec03def613ffe59fb4ce334fcc107c2e.svg",
     "index.html": "/index.html",
     "main.e8c55b76.css.map": "/static/css/main.e8c55b76.css.map",
-    "main.c0d9ec4d.js.map": "/static/js/main.c0d9ec4d.js.map"
+    "main.b02e5733.js.map": "/static/js/main.b02e5733.js.map"
   },
   "entrypoints": [
     "static/css/main.e8c55b76.css",
-    "static/js/main.c0d9ec4d.js"
+    "static/js/main.b02e5733.js"
   ]
 }
